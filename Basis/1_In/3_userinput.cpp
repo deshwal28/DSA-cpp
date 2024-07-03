@@ -8,7 +8,7 @@ using namespace std;
     //cin>>b;
     //cout<<"Sum of Number is:"<<a+b;
     int a=10;
-    char c= 'c';
+    char c;
     a=c;
     cout<<a;
 
